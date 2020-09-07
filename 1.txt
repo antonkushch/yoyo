@@ -7,4 +7,6 @@ change on feature-1 branch
 [FEATURE-1] change on [FEATURE-1]
 
 adding new feature to MASTER:
+-- MC
 -- chelsea
+-- liverpool
