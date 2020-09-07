@@ -7,3 +7,5 @@ playing with 2 on master
 [FEATURE-1] change on [FEATURE-1]
 
 new MASTER CHANGE #1 (no, not one, actually #2)
+
+new FEATURE-3 CHANGE #2
